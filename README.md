@@ -5,7 +5,7 @@
 
 ✔ 🔭 I’m currently working on **Griev_Ease**
 
-✔ 🌱 I’m currently learning **Fullstack Development and Data Structures and Algorithm.**
+✔ 🌱 Aspiring **Fullstack Development and Data Structures and Algorithm.**
 
 ✔ 👯 I’m looking to collaborate on **Open Source**
 
