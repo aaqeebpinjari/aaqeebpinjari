@@ -14,7 +14,7 @@
 ✔ ⚡ Fun fact **Loves Watching Anime...**
 
 <h3 align="left">Social Handles: </h3>
-<a href="www.linkedin.com/in/aaqeeb-pinjari-973a49240" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="darkcipher" height="50" width="150" alt=linkledIn /></a>
+<a href="https://www.linkedin.com/in/aaqeeb-pinjari-973a49240" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="darkcipher" height="50" width="150" alt=linkledIn /></a>
 <a href="https://www.codechef.com/users/darkcipher" target="blank"><img align="center" src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" alt="darkcipher" height="50" width="150" alt= CodeChef /></a>
 </p>
 
