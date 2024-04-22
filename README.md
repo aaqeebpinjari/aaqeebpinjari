@@ -5,19 +5,17 @@
 
 ✔ 🔭 Learning Django Framework and working on Multiple Projects.
 
-✔ 🌱 Aspiring **Fullstack Development and Data Structures and Algorithm.**
+✔ 🌱 Exploring **Data Structures and Algorithm.**
 
-✔ 👯 looking to collaborate on **Open Source Projects**
+✔ 👯 Looking to collaborate on **Open Source Projects**
 
 ✔ 💬 Ask me about **Front-End, C++, Django...**
 
-✔ 📫 How to reach me **aaqeebpinjari163@gmail.com**
+✔ ⚡ Fun fact **Loves Watching Anime...**
 
-✔ ⚡ Fun fact **Learning Everyday...**
-
-<h3 align="left">Connect with me:</h3>
-<a href="www.linkedin.com/in/aaqeeb-pinjari-973a49240" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="darkcipher" height="50" width="100" alt=linkledIn /></a>
-<a href="https://www.codechef.com/users/darkcipher" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="darkcipher" height="60" width="100" alt= CodeChef /></a>
+<h3 align="left">Social Handles: </h3>
+<a href="www.linkedin.com/in/aaqeeb-pinjari-973a49240" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="darkcipher" height="50" width="150" alt=linkledIn /></a>
+<a href="https://www.codechef.com/users/darkcipher" target="blank"><img align="center" src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" alt="darkcipher" height="50" width="150" alt= CodeChef /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
