@@ -3,13 +3,13 @@
 <h3 align="center">🚀Surprassing my own limits ,With a Vision of upgrading Myself🌐✨</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:996/1*xNQKHj5vR7w9AcY_bDKYYw.gif"
 
-✔ 🔭 Learning Django Framework and working on Multiple Projects.
+✔ 🔭 Getting Complete control over MERN and Exploring LLD.
 
-✔ 🌱 Exploring **Data Structures and Algorithm.**
+✔ 🌱 Mastering **Data Structures and Algorithm.**
 
 ✔ 👯 Looking to collaborate on **Open Source Projects**
 
-✔ 💬 Ask me about **Front-End, C++, Django...**
+✔ 💬 Ask me about **Front-End, C++, Mern and LLD...**
 
 ✔ ⚡ Fun fact **Loves Watching Anime...**
 
