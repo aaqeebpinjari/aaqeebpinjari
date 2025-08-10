@@ -1,6 +1,6 @@
 ![logo](https://github.com/aaqeebpinjari/aaqeebpinjari/blob/main/github-header-image%20(1).png)
 <h1 align="center">Hello Viewer, Myself Aaqeeb Pinjari</h1>
-<h3 align="center">🚀Surprassing my own limits ,With a Vision of upgrading Myself🌐✨</h3>
+<h3 align="center"> a Vision of upgrading Myself🌐✨</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:996/1*xNQKHj5vR7w9AcY_bDKYYw.gif"
 
 ✔ 🔭 Getting Complete control over MERN and Exploring LLD.
