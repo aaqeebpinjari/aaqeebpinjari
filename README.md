@@ -32,7 +32,7 @@ class AboutMe {
             "System Design": ["Low Level Design", "Design Patterns"],
             "Version Control": ["Git", "GitHub", "Github Actions"],
             "Tools & Platforms": ["Git", "GitHub", "VS Code", "Postman", "Linux"],
-            "Other Skills": ["REST APIs", "Authentication", "Problem Solving", "Team Collaboration"]
+            "Other Skills": ["Collaboration", "Authentication", "Problem Solving", "Team Collaboration"]
         };
         this.achievements = [
             "🚀 Contributed to Open Source (GSSoC, Hacktoberfest, Social of Winter Code)",
