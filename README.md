@@ -1,23 +1,68 @@
-![logo](https://github.com/aaqeebpinjari/aaqeebpinjari/blob/main/github-header-image%20(1).png)
-<h1 align="center">Hello Viewer, Myself Aaqeeb Pinjari</h1>
-<h3 align="center"> a Vision of upgrading Myself🌐✨</h3>
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:996/1*xNQKHj5vR7w9AcY_bDKYYw.gif"
 
-✔ 🔭 Getting Complete control over MERN and Exploring LLD.
+# ♟️ Aaqeeb Pinjari ♟️
 
-✔ 🌱 Mastering **Data Structures and Algorithm.**
+> ```
+> ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+> IDEA       ---------- →  CODE   ------→  IMPACT
+> THINK      -----------→  BUILD  ------→  OPTIMIZE  
+> COMPLEXITY -----------→  DESIGN ------→  CLARITY  
+> ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+> ```
 
-✔ 👯 Looking to collaborate on **Open Source Projects**
+---
+ ## About Me
+ ``` Js
+class AboutMe {
+    constructor() {
+        this.name = "Aaqeeb Pinjari";
+        this.location = "🌍 Nandurbar, Maharashtra, India";
+        this.profession = "💻 Aspiring SDE | Full Stack Developer";
+        this.mindset = "(Consistency && Discipline && Hardwork) beats TALENT";
+        this.hobbies = [
+            "⚙️ Solving DSA problems Everyday",
+            "🌐 Building projects in MERN Stack",
+            "🧠 Learning System Design",
+            "🌙 Late-night debugging marathons"
+            "❤️ Loves Watching Anime",
+        ];
+        this.knowledge = {
+            "Programming Languages": ["C/C++", "JavaScript", "TypeScript", "Python"],
+            "Web Development": ["HTML", "CSS", "React.js", "TailwindCSS", "Bootstrap"],
+            "Frameworks": ["MERN Stack", "Redux", "RESTful APIs"],
+            "Ui/Ux Design": ["Figma", "Material-UI"],
+            "Database": ["Redis", "MongoDB", "MySQL"],
+            "System Design": ["Low Level Design", "Design Patterns"],
+            "Version Control": ["Git", "GitHub", "Github Actions"],
+            "Tools & Platforms": ["Git", "GitHub", "VS Code", "Postman", "Linux"],
+            "Other Skills": ["REST APIs", "Authentication", "Problem Solving", "Team Collaboration"]
+        };
+        this.achievements = [
+            "🚀 Contributed to Open Source (GSSoC, Hacktoberfest, Social of Winter Code)",
+            "🏆 Improved problem-solving consistency on Leetcode and CodeChef",
+            "🌟 Built and deployed multiple full-stack applications as self employed and Open source"
+        ];
+    }
+}
 
-✔ 💬 Ask me about **Front-End, C++, Mern and LLD...**
+ ```
+## 🛠️ Tech Stack
 
-✔ ⚡ Fun fact **Loves Watching Anime...**
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python,react,redux,html,htmx,latex,css,sass,tailwind,bootstrap,materialui,react,styledcomponents,express,npm,nodejs,django,mongodb,mysql,postgres,git,github,githubactions,redis,figma,gcp,gitlab,azure,vscode,visualstudio,postman,linux,cloudflare,dynamodb,matlab,netlify,pycharm,replit,threejs,windows&perline=20" />
+  </a>
+  
+---
+## 🪶 Holopin Badges
 
-<h3 align="left">Social Handles: </h3>
-Nothing here buddy
+[![@aaqeebpinjari's Holopin board](https://holopin.me/aaqeebpinjari)](https://holopin.io/@aaqeebpinjari)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaqeebpinjari&show_icons=true&locale=en&layout=compact" alt="aaqeebpinjari" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaqeebpinjari&" alt="aaqeebpinjari" /></p>
+## 📊 GitHub Summary Card
+
+![](https://raw.githubusercontent.com/aaqeebpinjari/github-profile-summary-cards/master/profile-summary-card-output/aura/0-profile-details.svg)
+![](https://raw.githubusercontent.com/aaqeebpinjari/github-profile-summary-cards/master/profile-summary-card-output/aura/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/aaqeebpinjari/github-profile-summary-cards/master/profile-summary-card-output/aura/3-stats.svg)
+
+
+
