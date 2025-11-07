@@ -75,4 +75,4 @@ class AboutMe {
 
 ---
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=aaqeebpinjari&label=views&color=gray&style=plastic)
